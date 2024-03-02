@@ -1,0 +1,36 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "LoreRim",
+    "description": "Best thing since sliced bread",
+    "author": "Biggie_Boss",
+    "maintainers": [
+      "github/biggie-boss/LoreRim"
+    ],
+    "game": "skyrimspecialedition",
+    "tags": [
+      "Anniversary Edition"
+    ],
+    "nsfw": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://staticdelivery.nexusmods.com/mods/1704/images/112590/112590-1708904333-195281047.png",
+      "readme": "https://github.com/biggie-boss/LoreRim",
+      "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
+      "machineURL": "biggie-boss/LoreRim",
+      "discordURL": "https://discord.gg/Tb5ETzBYjd"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "m7Oepc9UQLU=",
+      "Size": 2926982017,
+      "NumberOfArchives": 2754,
+      "SizeOfArchives": 195083685608,
+      "NumberOfInstalledFiles": 349904,
+      "SizeOfInstalledFiles": 280829312786
+    },
+    "version": "1.0"
+  }
+]

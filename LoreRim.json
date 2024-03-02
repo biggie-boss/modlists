@@ -2,7 +2,7 @@
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "LoreRim",
-    "description": "Best thing since sliced bread",
+    "description": "A modern action RPG.",
     "author": "Biggie_Boss",
     "maintainers": [
       "github/biggie-boss/LoreRim"
@@ -18,7 +18,7 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://staticdelivery.nexusmods.com/mods/1704/images/112590/112590-1708904333-195281047.png",
       "readme": "https://github.com/biggie-boss/LoreRim",
-      "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
+      "download": "https://authored-files.wabbajack.org/LoreRim.wabbajack_da13aee4-5ca0-47db-99be-e735b89c741b",
       "machineURL": "biggie-boss/LoreRim",
       "discordURL": "https://discord.gg/Tb5ETzBYjd"
     },

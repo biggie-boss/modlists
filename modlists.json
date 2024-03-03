@@ -1,7 +1,7 @@
 [
   {
     "title": "LoreRim",
-    "description": "LoreRim is a modern action RPG modlist with a heavy emphasis on role-playing and making the lands of Skyrim feel alive. You'll encounter enemies and find gear seen in previous Elder Scrolls titles. Don't give up!",
+    "description": "LoreRim is a modern action RPG modlist with a heavy emphasis on role-playing and making the lands of Skyrim feel alive. You\u0027ll encounter enemies and find gear seen in previous Elder Scrolls titles. Don\u0027t give up!",
     "author": "Biggie_Boss",
     "maintainers": [
       "github/biggie-boss"
@@ -19,21 +19,21 @@
     "links": {
       "image": "https://staticdelivery.nexusmods.com/mods/1704/images/112590/112590-1708904333-195281047.png",
       "readme": "https://github.com/biggie-boss/LoreRim",
-      "download": "https://authored-files.wabbajack.org/LoreRim.wabbajack_61e2532c-269c-428b-9237-2dfd96847c97",
+      "download": "https://authored-files.wabbajack.org/LoreRim.wabbajack_ae7e7c81-fd6c-4571-8dbc-d2c800858688",
       "machineURL": "LoreRim",
       "discordURL": "https://discord.gg/Tb5ETzBYjd"
     },
     "download_metadata": {
-      "Hash": "DKenyE5pr6M=",
-      "Size": 2926997349,
-      "NumberOfArchives": 2773,
-      "SizeOfArchives": 196126315286,
-      "NumberOfInstalledFiles": 350479,
-      "SizeOfInstalledFiles": 281693927851
+      "Hash": "n3zqz0N9gZU=",
+      "Size": 2927249686,
+      "NumberOfArchives": 2777,
+      "SizeOfArchives": 197896696020,
+      "NumberOfInstalledFiles": 355634,
+      "SizeOfInstalledFiles": 290773812691
     },
-    "version": "1.0.1",
+    "version": "1.0.2",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-03-03T16:06:20.8316909Z",
+    "dateUpdated": "2024-03-03T21:35:33.1021156Z",
     "repositoryName": ""
   }
 ]

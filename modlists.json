@@ -19,21 +19,21 @@
     "links": {
       "image": "https://staticdelivery.nexusmods.com/mods/1704/images/112590/112590-1708904333-195281047.png",
       "readme": "https://github.com/biggie-boss/LoreRim",
-      "download": "https://authored-files.wabbajack.org/LoreRim.wabbajack_87f735db-c301-4cc8-8e8a-448b96316639",
+      "download": "https://authored-files.wabbajack.org/LoreRim.wabbajack_a4e95c57-6881-474f-8f59-39ab4fee6694",
       "machineURL": "LoreRim",
       "discordURL": "https://discord.gg/Tb5ETzBYjd"
     },
     "download_metadata": {
-      "Hash": "mZ20Y6oSqAM=",
-      "Size": 2947677918,
-      "NumberOfArchives": 3236,
-      "SizeOfArchives": 202051275776,
-      "NumberOfInstalledFiles": 391173,
-      "SizeOfInstalledFiles": 315820053202
+      "Hash": "tZHaTW2ai/g=",
+      "Size": 2947678272,
+      "NumberOfArchives": 3237,
+      "SizeOfArchives": 202135569166,
+      "NumberOfInstalledFiles": 391181,
+      "SizeOfInstalledFiles": 315904415897
     },
     "version": "1.4",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-03-21T21:51:41.5798662Z",
+    "dateUpdated": "2024-03-21T23:24:37.7912261Z",
     "repositoryName": ""
   }
 ]

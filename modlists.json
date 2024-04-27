@@ -7,9 +7,9 @@
       "github/biggie-boss"
     ],
     "game": "skyrimspecialedition",
-    "official": false,
+    "official": true,
     "tags": [
-      "Anniversary Edition"
+      "Official", "Anniversary Edition", "Requiem", "MCO"
     ],
     "nsfw": false,
     "utility_list": false,

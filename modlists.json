@@ -9,7 +9,10 @@
     "game": "skyrimspecialedition",
     "official": true,
     "tags": [
-      "Official", "Anniversary Edition", "Requiem", "MCO"
+      "Official",
+      "Anniversary Edition",
+      "Requiem",
+      "MCO"
     ],
     "nsfw": false,
     "utility_list": false,
@@ -19,21 +22,21 @@
     "links": {
       "image": "https://staticdelivery.nexusmods.com/mods/1704/images/112590/112590-1708904333-195281047.png",
       "readme": "https://github.com/biggie-boss/LoreRim",
-      "download": "https://authored-files.wabbajack.org/LoreRim.wabbajack_b50e0050-11c9-4195-9942-c7588524ddaa",
+      "download": "https://authored-files.wabbajack.org/LoreRim.wabbajack_e0eb9847-8e7a-4362-bac6-bfb2f96c1dda",
       "machineURL": "LoreRim",
       "discordURL": "https://discord.gg/Tb5ETzBYjd"
     },
     "download_metadata": {
-      "Hash": "ZWI+qo7eh58=",
-      "Size": 2413713431,
-      "NumberOfArchives": 3439,
-      "SizeOfArchives": 210585414245,
-      "NumberOfInstalledFiles": 347627,
-      "SizeOfInstalledFiles": 302919267848
+      "Hash": "t4eAlQ0Qakc=",
+      "Size": 2357957322,
+      "NumberOfArchives": 3440,
+      "SizeOfArchives": 210501535794,
+      "NumberOfInstalledFiles": 341467,
+      "SizeOfInstalledFiles": 302866536457
     },
-    "version": "1.5.99",
+    "version": "1.5.999",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-04-24T16:31:11.0046252Z",
+    "dateUpdated": "2024-05-01T16:16:57.9141426Z",
     "repositoryName": ""
   }
 ]

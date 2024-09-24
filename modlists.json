@@ -22,21 +22,21 @@
     "links": {
       "image": "https://staticdelivery.nexusmods.com/mods/1704/images/112590/112590-1723216653-806839456.jpeg",
       "readme": "https://themoddingbungalo.com/lists/lorerim/read-me",
-      "download": "https://authored-files.wabbajack.org/LoreRim.wabbajack_02fd4a0a-9c60-4141-9647-f98988b7409a",
+      "download": "https://authored-files.wabbajack.org/LoreRim.wabbajack_0a274676-5072-4be5-8127-ce9af3bbd486",
       "machineURL": "LoreRim",
       "discordURL": "https://discord.gg/Tb5ETzBYjd"
     },
     "download_metadata": {
-      "Hash": "PYl/bxQg45s=",
-      "Size": 911090845,
+      "Hash": "t0g8pNSlGyQ=",
+      "Size": 911090345,
       "NumberOfArchives": 3908,
       "SizeOfArchives": 257526772896,
       "NumberOfInstalledFiles": 291936,
-      "SizeOfInstalledFiles": 329564162236
+      "SizeOfInstalledFiles": 329564162268
     },
     "version": "2.2.10",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-09-24T14:19:26.3204392Z",
+    "dateUpdated": "2024-09-24T18:54:30.9457045Z",
     "repositoryName": ""
   }
 ]

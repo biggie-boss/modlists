@@ -22,21 +22,21 @@
     "links": {
       "image": "https://staticdelivery.nexusmods.com/mods/1704/images/112590/112590-1734545505-435089019.png",
       "readme": "https://lorerim.com/",
-      "download": "https://authored-files.wabbajack.org/LoreRim.wabbajack_23354dae-3a6d-4bf8-8d97-5117fc8b4dd0",
+      "download": "https://authored-files.wabbajack.org/LoreRim.wabbajack_bb248277-78e1-448c-ab1c-9dc7c8dc8a1f",
       "machineURL": "LoreRim",
       "discordURL": "https://discord.gg/bungalo"
     },
     "download_metadata": {
-      "Hash": "wRU1E58dUks=",
-      "Size": 3125906124,
-      "NumberOfArchives": 4384,
-      "SizeOfArchives": 273404681168,
-      "NumberOfInstalledFiles": 391535,
-      "SizeOfInstalledFiles": 356499345167
+      "Hash": "STPMIXN5Ub4=",
+      "Size": 3125903285,
+      "NumberOfArchives": 4383,
+      "SizeOfArchives": 273383991447,
+      "NumberOfInstalledFiles": 391523,
+      "SizeOfInstalledFiles": 356411959173
     },
     "version": "3.0.18",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-01-18T20:44:32.8475355Z",
+    "dateUpdated": "2025-01-18T22:58:05.7146743Z",
     "repositoryName": ""
   }
 ]

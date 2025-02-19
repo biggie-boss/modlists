@@ -22,24 +22,24 @@
     "links": {
       "image": "https://staticdelivery.nexusmods.com/mods/1704/images/112590/112590-1734545505-435089019.png",
       "readme": "https://lorerim.com/",
-      "download": "https://authored-files.wabbajack.org/LoreRim.wabbajack_628b0e02-ae44-4022-8322-656596e49d7d",
+      "download": "https://authored-files.wabbajack.org/NGVO.wabbajack_4cb9ecf9-94a4-4520-8b84-71fa3fedbf68",
       "machineURL": "LoreRim",
       "discordURL": "https://discord.gg/bungalo"
     },
     "download_metadata": {
-      "Hash": "SagJAxIaLB8=",
-      "Size": 3134791965,
-      "NumberOfArchives": 4408,
-      "SizeOfArchives": 273884294555,
-      "NumberOfInstalledFiles": 375620,
-      "SizeOfInstalledFiles": 362165657647
+      "Hash": "brmge1r7ZPk=",
+      "Size": 442680634,
+      "NumberOfArchives": 1489,
+      "SizeOfArchives": 130902132403,
+      "NumberOfInstalledFiles": 130889,
+      "SizeOfInstalledFiles": 168329700645
     },
-    "version": "3.2.2",
+    "version": "4.0.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-02-16T17:06:01.744438Z",
+    "dateUpdated": "2025-02-19T22:54:58.2436772Z",
     "repositoryName": ""
   },
-    {
+  {
     "title": "NGVO",
     "description": "Next Generation Visual Overhaul (or NGVO) is a visual-only modlist for Skyrim Anniversary Edition. Containing all the latest bugfixes and visual addons, it aims to use all the cutting-edge modding technology available.",
     "author": "Biggie_Boss",
@@ -75,6 +75,8 @@
       "SizeOfInstalledFiles": 168329700578
     },
     "version": "4.0.0",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "0001-01-01T00:00:00",
     "repositoryName": ""
   }
 ]

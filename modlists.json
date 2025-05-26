@@ -22,23 +22,23 @@
     "links": {
       "image": "https://staticdelivery.nexusmods.com/mods/1704/images/112590/112590-1747509146-1248295040.png",
       "readme": "https://lorerim.com/",
-      "download": "https://authored-files.wabbajack.org/LoreRim.wabbajack_848e6760-ecf7-40ce-ac25-e23e1d630f07",
+      "download": "https://authored-files.wabbajack.org/LoreRim.wabbajack_00af1632-e7a9-4ad2-ba16-05f36926227c",
       "machineURL": "LoreRim",
       "discordURL": "https://discord.gg/bungalo",
       "websiteURL": "https://lorerim.com/"
     },
     "download_metadata": {
-      "Hash": "iPOS9cQi5bs=",
-      "Size": 2986139128,
-      "NumberOfArchives": 4211,
-      "SizeOfArchives": 266131412041,
-      "NumberOfInstalledFiles": 387687,
-      "SizeOfInstalledFiles": 356232730655,
-      "TotalSize": 622364142696
+      "Hash": "HM7/psptvSY=",
+      "Size": 2986139826,
+      "NumberOfArchives": 4210,
+      "SizeOfArchives": 266131410035,
+      "NumberOfInstalledFiles": 387683,
+      "SizeOfInstalledFiles": 356232712805,
+      "TotalSize": 622364122840
     },
     "version": "4.0.18",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-05-26T23:25:55.4036536Z",
+    "dateUpdated": "2025-05-26T23:44:18.6450648Z",
     "repositoryName": ""
   }
 ]

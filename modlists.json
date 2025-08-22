@@ -4,7 +4,8 @@
     "description": "LoreRim is a modern action RPG modlist with a heavy emphasis on role-playing and making the lands of Skyrim feel alive. You\u0027ll encounter enemies and find gear seen in previous Elder Scrolls titles. Don\u0027t give up!",
     "author": "Biggie_Boss",
     "maintainers": [
-      "github/biggie-boss"
+      "github/biggie-boss",
+      "github/silkilee93"
     ],
     "game": "skyrimspecialedition",
     "official": true,
@@ -41,4 +42,5 @@
     "dateUpdated": "2025-08-18T23:26:27.682853Z",
     "repositoryName": ""
   }
+
 ]

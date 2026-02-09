@@ -26,7 +26,13 @@
       "download": "https://authored-files.wabbajack.org/LoreRim.wabbajack_3e1cf324-194b-4888-bdb6-a7bfc1dc3255",
       "machineURL": "LoreRim",
       "discordURL": "https://discord.gg/bungalo",
-      "websiteURL": "https://lorerim.com/"
+      "websiteURL": "https://lorerim.com/",
+      "nexusCollection": {
+        "collectionId": 408120,
+        "slug": "kfkxjv",
+        "domainName": "skyrimspecialedition",
+        "lastRevisionNumber": 1
+      }
     },
     "download_metadata": {
       "Hash": "FzF4Dntb8bU=",

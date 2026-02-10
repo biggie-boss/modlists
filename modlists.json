@@ -23,29 +23,23 @@
     "links": {
       "image": "https://staticdelivery.nexusmods.com/mods/1704/images/112590/112590-1764892877-589382340.png",
       "readme": "https://lorerim.com/",
-      "download": "https://authored-files.wabbajack.org/LoreRim.wabbajack_3e1cf324-194b-4888-bdb6-a7bfc1dc3255",
+      "download": "https://authored-files.wabbajack.org/LoreRim.wabbajack_ab8bf68a-84d8-40d4-99a2-1942507a3db9",
       "machineURL": "LoreRim",
       "discordURL": "https://discord.gg/bungalo",
-      "websiteURL": "https://lorerim.com/",
-      "nexusCollection": {
-        "collectionId": 408120,
-        "slug": "kfkxjv",
-        "domainName": "skyrimspecialedition",
-        "lastRevisionNumber": 1
-      }
+      "websiteURL": "https://lorerim.com/"
     },
     "download_metadata": {
-      "Hash": "FzF4Dntb8bU=",
-      "Size": 4126658389,
-      "NumberOfArchives": 4471,
-      "SizeOfArchives": 257481348455,
-      "NumberOfInstalledFiles": 418935,
-      "SizeOfInstalledFiles": 342397428156,
-      "TotalSize": 599878776611
+      "Hash": "r0B2M/vsVbA=",
+      "Size": 4126593975,
+      "NumberOfArchives": 4475,
+      "SizeOfArchives": 257495378977,
+      "NumberOfInstalledFiles": 418941,
+      "SizeOfInstalledFiles": 342397542582,
+      "TotalSize": 599892921559
     },
-    "version": "4.4.9",
+    "version": "4.5",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-02-09T15:27:04.9071237Z",
+    "dateUpdated": "2026-02-10T15:17:08.485034Z",
     "repositoryName": ""
   }
 ]

@@ -27,7 +27,12 @@
       "machineURL": "LoreRim",
       "discordURL": "https://discord.gg/bungalo",
       "websiteURL": "https://lorerim.com/",
-      "nexusCollection": null
+      "nexusCollection": {
+        "collectionId": 412264,
+        "slug": "qjb2qv",
+        "domainName": "skyrimspecialedition",
+        "lastRevisionNumber": 1
+      }
     },
     "download_metadata": {
       "Hash": "jL0pQLswJqM=",
